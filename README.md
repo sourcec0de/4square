@@ -1,4 +1,7 @@
 # Foursquare Venues API
+
+
+BLAH BLAH BLAH
   
 This is a simple module to access 4squares' venue API.  
 
